@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/React-Crypto-App/",
+  base: "/react-crypto-app/",
   build: {
     outDir: 'dist',
   },
