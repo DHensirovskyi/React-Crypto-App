@@ -13,12 +13,12 @@
     "deploy": "gh-pages -d dist --no-history --dotfiles true -m 'Deploy update'"
   },
   "dependencies": {
+    "antd": "^5.25.4",
+    "chart.js": "^4.4.9",
     "react": "^18.2.0",
+    "react-chartjs-2": "^5.3.0",
     "react-dom": "^18.2.0",
-    "uuid": "^x.x.x",
-    "antd": "^x.x.x",
-    "chart.js": "^x.x.x",
-    "react-chartjs-2": "^x.x.x"
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
